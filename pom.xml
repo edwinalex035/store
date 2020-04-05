@@ -6,7 +6,11 @@
 
   <groupId>com.ed</groupId>
   <artifactId>tutorials</artifactId>
+  <packaging>pom</packaging>
   <version>1.0.0</version>
+  <modules>
+    <module>app-store</module>
+  </modules>
 
 
 </project>
